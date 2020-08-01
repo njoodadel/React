@@ -1,3 +1,2 @@
 # React
-volunteer-app: Under processing  
-baleegh: Completed   
+volunteer-app: Under development  
