@@ -60,7 +60,6 @@ export default class DailyTraining extends PureComponent {
         if (window.innerWidth > 800)
             this.setState({ size: window.innerWidth / 10 })
         else this.setState({ size: window.innerWidth / 2.5 })
-
     }
 
     render() {
